@@ -1,0 +1,6 @@
+INSERT INTO `producto` ( `cantidad`, `codigo`, `descripcion`, `precio`) VALUES 
+( '20', '0123451', 'Monitot LG5 ', '250.99'),
+ ( '30', '0123452', 'Teclado Samnsung', '250.99'),
+ ( '60', '0123453', 'Mouse Gaming ', '250.99'),
+( '70', '0123454', 'Parlantes Soni ', '250.99'),
+( '80', '0123455', 'Ram DDR4 ', '250.99')

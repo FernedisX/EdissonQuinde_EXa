@@ -1,0 +1,13 @@
+package com.fernedisx.app;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ExaiEdissonquinde2Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ExaiEdissonquinde2Application.class, args);
+	}
+
+}
